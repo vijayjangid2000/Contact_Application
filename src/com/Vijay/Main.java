@@ -86,6 +86,6 @@ public class Main {
                 " WHERE " + COLUMN_NAME + " = '" + name + "'");
         System.out.println("DELETE FROM " + TABLE_CONTACTS + " WHERE " + COLUMN_NAME + " = '" + name + "'");
     }
-
+// here is the cahnge you can see
 
 }
